@@ -36,4 +36,4 @@ A simple Python script to check your TextLocal account information, specifically
 Run the script `textlocal_checker.py` with your TextLocal API key as a command-line argument.
 
 ```bash
-python script_name.py your_api_key
+python textlocal_checker.py your_api_key
