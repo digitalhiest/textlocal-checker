@@ -1,6 +1,6 @@
 # TextLocal Account Checker
 
-![TextLocal Logo](https://i.ibb.co/cT9104C/textlocal-checker.jpg)
+![TextLocal Logo](https://i.ibb.co/RCyh72d/api-shell.jpg)
 
 A simple Python script to check your TextLocal account information, specifically the SMS balance, using the TextLocal API.
 
